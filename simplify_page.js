@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  simplify the streaming-hub page for android viewing
 // @author       cmonnom
-// @updateURL    https://github.com/cmonnom/simplify_page/simplify_page.com
+// @updateURL    https://github.com/cmonnom/simplify_page/simplify_page.js
 // @match        http://www.streaming-hub.com/*
 // @grant        none
 // ==/UserScript==
