@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         simplify_page
+// @namespace    https://github.com/cmonnom/simplify_page
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  simplify the streaming-hub page for android viewing
+// @author       cmonnom
+// @updateURL    https://github.com/cmonnom/simplify_page/simplify_page.com
 // @match        http://www.streaming-hub.com/*
 // @grant        none
 // ==/UserScript==
